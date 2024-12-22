@@ -1,0 +1,4 @@
+*.class
+/build/output/
+/bin_verilator/*
+/verif/sim/*
